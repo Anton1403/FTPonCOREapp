@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "51d9a54ddf575b39e54ff8879c47c5fde0725f1a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Asmodat.Standard.SSH.NET": "1.0.0.1"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Asmodat.Standard.SSH.NET/1.0.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Asmodat Standard SSH.NET.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asmodat.Standard.SSH.NET/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YBTLTZURqM4bww1YKU1pU6glx4zo5WqP8TrezDCgeVemo8/O+ZYRaMxxtO7Bc2s/q+oJqQx21wJUobbrtdUWaQ==",
+      "path": "asmodat.standard.ssh.net/1.0.0.1",
+      "hashPath": "asmodat.standard.ssh.net.1.0.0.1.nupkg.sha512"
+    }
+  }
+}
